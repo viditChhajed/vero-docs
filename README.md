@@ -1,11 +1,5 @@
-# Persuasion Patterns — public docs
+# Moved
 
-This repository exists for one reason: the Chrome Web Store requires a publicly reachable
-privacy policy URL, and the extension's source repository is private.
+Vero is now Pensa. The docs live at https://viditchhajed.github.io/pensa-docs/ and in [viditChhajed/pensa-docs](https://github.com/viditChhajed/pensa-docs).
 
-It contains documentation only — no source code, no build output.
-
-- [privacy.md](privacy.md) — the privacy policy, served at `/privacy`
-
-Kept in sync by hand with `PRIVACY.md` in the private source repository. If the two ever
-disagree, the source repository is authoritative and this copy is a bug.
+This repository only redirects, so links in older listings keep working.
